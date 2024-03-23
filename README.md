@@ -1,7 +1,7 @@
 ### simple bank contract
 This smart contract is written in Solidity.
 - allow anyone to deposit fund (as depositer)
-- allow depositer to withdraw/transfer fund to any address
+- allow depositer withdraw/transfer fund to any address
 
 #### testnet deployment
 - Sepolia (id: `11155111`; compiler: `^0.8.25`)
