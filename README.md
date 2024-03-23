@@ -11,3 +11,5 @@ This smart contract is written in Solidity.
 
 #### frontend
 - lazybank https://b.gguf.us
+
+[<img src="https://raw.githubusercontent.com/calcuis/simple-bank-contract/master/demo2.png" width="315" height="360">](https://raw.githubusercontent.com/calcuis/simple-bank-contract/master/demo2.png)
