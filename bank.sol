@@ -13,8 +13,4 @@ contract eBank {
         require(success);
         balances[msg.sender] -= amount;
     }
-
-    function getBalance(address account) public view returns (uint) {
-        return balances[account];
-    }
 }
