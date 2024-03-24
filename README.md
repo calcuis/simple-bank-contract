@@ -5,9 +5,9 @@ This smart contract is written in Solidity.
 
 #### testnet deployment
 - Sepolia (id: `11155111`; compiler: `^0.8.25`)
-[contract address](https://sepolia.etherscan.io/address/0x91eF967492e976F1cac20aae7731FB49182387C1)
+[contract address](https://sepolia.etherscan.io/address/0x8eC035FD72E17F3F60001E0B03E82e7D861c98eD)
 - Holesky (id: `17000`; compiler: `^0.8.25`)
-[contract address](https://holesky.etherscan.io/address/0x2b76DFFf6B1E9DEd9F7D5c564cAD440667DC4E45)
+[contract address](https://holesky.etherscan.io/address/0x07cDb2d8C3130EB39105DCB56ce9622b5f7bFE36)
 
 #### frontend
 - lazybank https://b.gguf.us
